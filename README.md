@@ -1,4 +1,4 @@
-# secure-cloud-deployment
+# PROJECT IN PROGRESS
 A DevOps project demonstrating automated and secure cloud deployment using Docker, CI/CD, and AWS.
 # Secure Cloud Deployment Pipeline 
 
