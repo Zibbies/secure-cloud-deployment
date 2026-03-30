@@ -41,3 +41,6 @@ This project is actively in progress. I am continuously improving the deployment
 ##  Screenshots
 (To be added as the project progresses)
 
+##  Connect
+I am currently open to learning opportunities, collaboration, and mentorship in DevOps and Cloud Engineering.
+
