@@ -1,12 +1,17 @@
 # Secure Cloud Deployment Pipeline (PROJECT IN PROGRESS)
 A DevOps project demonstrating automated and secure cloud deployment using Docker, CI/CD, and AWS.
-# Secure Cloud Deployment Pipeline 
+
+##  Project Goal
+This project is part of my journey into DevOps and Cloud Engineering.
+My goal is to:
+- Automate application deployment using CI/CD
+- Deploy this application to a cloud environment
+- Implement basic security and monitoring practices 
 
 ##  Project Overview
 This project demonstrates my understanding of deploying and securing applications in a cloud environment using DevOps practices.
 
 I am currently building a pipeline that automates application deployment while integrating basic security best practices.
-
 
 ##  Technologies Used
 - Docker (Containerization)
